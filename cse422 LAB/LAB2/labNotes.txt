@@ -1,0 +1,33 @@
+GENETIC ALGORITHM 
+
+
+===>>   step 1  (Initial Population)
+
+Choose the Population
+
+===>>   step 2 (Parent Selection) 
+
+Chooose the Fittest
+
+===>>   step 3 (CROSSover)
+
+Then make next generation 
+
+===>>   step 4 (Mutation)
+
+===>>   step 5 (Goal Test)
+Goal test is basically by fitness test
+If failed, start again from step 1
+
+=================================================================x====================================================
+N queen Problem 
+
+
+
+
+
+
+
+
+
+
