@@ -23,11 +23,3 @@ If failed, start again from step 1
 N queen Problem 
 
 
-
-
-
-
-
-
-
-
