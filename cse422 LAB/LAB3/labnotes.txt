@@ -1,0 +1,12 @@
+Utility Value
+
+alpha beta pruning
+
+intialize Alpha = inf
+          Beta = - inf
+
+aplha uPdate in max state only if the new value is > existing
+
+beta uPdate in min state only if the new value is < existing
+
+if alpha >= beta , right side branch pruned
