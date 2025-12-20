@@ -1,0 +1,9 @@
+Supplementary resources for Lab 5 (Unsupervised Learning):
+Slide: https://docs.google.com/presentation/d/167RKFljDNx86GXBNLG1JiXmKjyGZS6iiHhum70UDvyQ/edit?usp=drivesdk
+
+K Means Clustering: https://youtu.be/4b5d3muPQmA?si=z6IP2-kzceImRksC
+
+K Means Solved Example: https://youtu.be/KzJORp8bgqs?si=fVWw6Y8hG7FuuAHY
+
+
+Class Recording (Model Training and Unsupervised Learning): https://youtu.be/73WWHRB3LKk
